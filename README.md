@@ -1,7 +1,7 @@
 # training3
 
 ## Day 1
-### Git
+### Git: Github/bitbucket
 ### Java Core:
   - Semantics: Condition control, for loop , java version
   - String, Array
