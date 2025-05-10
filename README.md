@@ -6,11 +6,37 @@
   - Semantics: Condition control, for loop , java version
   - String, Array
   - Java Collection
+    => LIST/SET/MAP/Queue
+        => LIST: ArrayList, LinkedList -> store random access value, compare between
+        => Set: HashSet, TreeSet -> store unique value
+        => Map: HashMap
+        => PriorityQueue
+        => Concurrent:
+            -> Blocking Queue
+            ->
   - Java IO
   - Java Multi Threading
   - Java OOP
 ### Introduce DSA
+  - Data structure: List, Array, String
+        => Insert, insert at index, insert last, delete, traverse, get at index
+        => Sorting
+        => Reverse
+  - Sorting (learn to known, but almost use Java Collections framework)
+  - Two pointers
+  - Binary search
+  - DFS
+  - Backtracking
+  - BFS
+  - Dynamic Programming
 ### Resources for DSA
+    => Practice leetcode
+    => Alogmonster
+        https://algo.monster/dashboard
+    => Geek4Geek - Tests from Google, Amazon, Microsoft ..
+        https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
+    => Book
+
 ==> Practice
 ## Day 2
 -> Spring boot & JPA & Architecture
